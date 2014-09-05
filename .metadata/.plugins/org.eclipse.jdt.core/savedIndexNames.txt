@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\UTECH\My Projects (Year 1, 2, 3)\Advance Programming Using Java\JavaProject\.metadata\.plugins\org.eclipse.jdt.core
+1397840230.index
+3464005829.index
